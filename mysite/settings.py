@@ -25,7 +25,8 @@ SECRET_KEY = 'ess-8hj^z^3ua3hism+r6r_!c4%gg0xj6thmff2%rnus2z272y'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['zizopo.pythonanywhere.com']
+ALLOWED_HOSTS = ['zizopo.pythonanywhere.com',
+		'127.0.0.1']
 
 
 # Application definition
